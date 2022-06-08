@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-image: url(../Recursos/Imagenes/paper-texture.jpeg);
+  background-image: url(../Recursos/Imagenes/paper-texture_\(4\).jpeg);
 }
 
 /* Navegador */
@@ -352,4 +352,14 @@ body {
   -webkit-animation-duration: 2s;
           animation-duration: 2s;
 }
+
+.reservasonline {
+  
+  border: 7px dotted black;
+  padding: 0px 20%;
+  font-size: 1.4rem;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+}
+
 /*# sourceMappingURL=style.css.map */
